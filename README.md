@@ -1,17 +1,4 @@
 # rna-data-analysis-week1
-rna-data-analysis-week1/
-│
-├── notebooks/
-│   └── day1_python_analysis.ipynb
-│
-├── data/
-│   └── (data set)
-│
-├── figures/
-│   └── plot1.png
-│   └── plot2.png
-│
-└── README.md
 
 # RNA Data Analysis - Week 1
 
